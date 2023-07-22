@@ -10,7 +10,7 @@ https://discord.gg/rXhEgCveJ2
 
 This project is designed to teach python in incremental steps through the development of a pong
 clone on a daughter board. This list assumes you own a Raspberry Pi 4 or Raspberry Pi 400 (Has a 
-40 pin GPIO). For a tween/teen the 400 is recommended. 
+40 pin GPIO).
 
 Notes:
   - Eagle Files for the daughter board PCB coming soon^TM.
