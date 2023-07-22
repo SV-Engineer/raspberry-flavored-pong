@@ -5,8 +5,10 @@
 #############################################################################################
 
 Want to get involved or need help understanding something?
-Contact us on Discord:
+Contact me on Discord:
 https://discord.gg/rXhEgCveJ2
+
+Note: This project will be switching to C soon^TM (when I can find the time).
 
 This project is designed to teach python in incremental steps through the development of a pong
 clone on a daughter board. This list assumes you own a Raspberry Pi 4 or Raspberry Pi 400 (Has a 
